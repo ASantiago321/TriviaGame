@@ -1,0 +1,48 @@
+body{
+	background-image: url('../images/Hogwarts1.jpg');
+	background-size: cover;
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-size: 45px;
+	font-weight: bold;
+}
+
+#option1{
+	font-size: 30px;
+}
+
+#option2{
+	font-size: 30px;
+}
+
+#option3{
+	font-size: 30px;
+}
+
+#option4{
+	font-size: 30px;
+}
+
+button{
+	margin: 10px;
+	padding: 10px;
+	font-size: 15px;
+	border-radius: 10px;
+	background-image: url('../images/Hogwarts1.jpg');
+	color: white;
+	width: 100px;
+	height: 50px;
+}
+
+.questionBox{
+	margin: 0px 200px;
+	background: rgba(76, 175, 80, 0.6);
+	border-radius: 20px;
+}
